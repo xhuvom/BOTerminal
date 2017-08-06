@@ -1,4 +1,4 @@
-# vi-bot
+# BOTerminal
 
 Linux Terminal emulator BOT on Messenger with Botpress.
 
